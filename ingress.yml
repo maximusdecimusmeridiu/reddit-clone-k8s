@@ -18,7 +18,8 @@ spec:
                 port:
                   number: 3000
 
-    - host: "*.domain.com"  # 🔁 Wildcard host — replace as needed
+    - host: "host: reddit.3.146.37.92.nip.io
+"  # 🔁 Wildcard host — replace as needed
       http:
         paths:
           - pathType: Prefix
